@@ -18,7 +18,7 @@ Chi Square Analysis was performed on categorical attributes to check, how much c
 
 **Clustering and Outlier Analysis:**
 
-Data was clustered using different techniques like **Kmeans clustering**, **BIRCH** and **Agglomerative clustering**.\
+Data was clustered using different techniques like **Kmeans clustering**, **BIRCH** and **Agglomerative clustering**. To find the **optimal number of clusters** of the data, **elbow method, visualisation method and Dendogram** were used.\
 Later, outliers were removed using **Isolation Forest**, since it worked best on multiple attributes/dimensional data.
 
 **Conclusion and Recommendations:**
